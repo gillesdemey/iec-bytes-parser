@@ -1,4 +1,4 @@
-# iec-bytes-parser
+# iec-bytes-parser [![Build Status](https://travis-ci.com/gillesdemey/iec-bytes-parser.svg?branch=master)](https://travis-ci.com/gillesdemey/iec-bytes-parser)
 
 ## Installation
 
